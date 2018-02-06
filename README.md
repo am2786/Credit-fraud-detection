@@ -1,2 +1,4 @@
 # Credit-fraud-detection
-This is a credit fraud readme.
+
+#### Questions/issues/contact
+<adrian.e.meyers@gmail.com>
